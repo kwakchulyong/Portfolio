@@ -3,7 +3,7 @@ Joseph Kwak's Portfolio
 
 Introduce
 
-Name : Joseph Kwak
+Name : Joseph Kwak <br/>
 Email : josephkwak.dev@gmail.com
 
 Education
