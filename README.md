@@ -24,45 +24,45 @@ PROJECT EXPERIENCE <br/>
 THE KOREAN TEACHERS' CREDIT UNION 	<br/>
 August 2015 –  September 2017 <br/>
 Project: Maintaining client website <br/>
-URL: 
-http://www.ktcu.or.kr/    - Korea Teachers' Credit Union site
-http://ethics.ktcu.or.kr/ - Moral management
-http://award.ktcu.or.kr/  - Teacher Award
-Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Oracle, DB2, Eclipse, Toad
+URL: <br/>
+http://www.ktcu.or.kr/    - Korea Teachers' Credit Union site<br/>
+http://ethics.ktcu.or.kr/ - Moral management<br/>
+http://award.ktcu.or.kr/  - Teacher Award<br/>
+Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Oracle, DB2, Eclipse, Toad<br/>
 
-All Tour Travel Agency	
-June 2015 –  July 2015
-Project: Developed “All Tour” Internet shopping mall
-URL: Currently not available
-Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Mssql, angular.js, MongoDB
+All Tour Travel Agency	<br/>
+June 2015 –  July 2015<br/>
+Project: Developed “All Tour” Internet shopping mall<br/>
+URL: Currently not available<br/>
+Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Mssql, angular.js, MongoDB<br/>
 
-HAN CUBE CO., LTD	
-March 2015 –  June 2015
-Project: Developed “YooBoo” Social Commerce website
-URL: Currently not available
-Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Mssql, angular.js, MongoDB
+HAN CUBE CO., LTD<br/>
+March 2015 –  June 2015<br/>
+Project: Developed “YooBoo” Social Commerce website<br/>
+URL: Currently not available<br/>
+Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Mssql, angular.js, MongoDB<br/>
 
-MCM Holding AG	
-December 2014 –  March 2015
-Project: Developed “M5 Marketing” Hybrid Mobile App
-URL: https://play.google.com/store/apps/details?id=com.mcm.app.hybrid&hl=ko
-Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Hybrid App, Mssql, angular.js, MongoDB
+MCM Holding AG<br/>
+December 2014 –  March 2015<br/>
+Project: Developed “M5 Marketing” Hybrid Mobile App<br/>
+URL: https://play.google.com/store/apps/details?id=com.mcm.app.hybrid&hl=ko <br/>
+Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Hybrid App, Mssql, angular.js, MongoDB<br/>
 
-Samsung Bioepis	
-January 2014 –  June 2014
-Project: Developed PMS(Project Management System) web solution
-URL: Intranet site
-Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Oracle, Javascript
+Samsung Bioepis<br/>	
+January 2014 –  June 2014<br/>
+Project: Developed PMS(Project Management System) web solution<br/>
+URL: Intranet site<br/>
+Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Oracle, Javascript<br/>
 
-Samsung SDI	
-June 2013 –  December 2013
-Project: Developed PLM(Product lifecycle management) web solution
-URL: Intranet site
-Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Oracle, Javascript
+Samsung SDI	<br/>
+June 2013 –  December 2013<br/>
+Project: Developed PLM(Product lifecycle management) web solution<br/>
+URL: Intranet site<br/>
+Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Oracle, Javascript<br/>
 
-Samsung Corning Advanced Glass LLC	
-August 2012 –  June 2013
-Project: Developed PLM(Product lifecycle management) web solution
-URL: Intranet site
-Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Oracle, Javascript
+Samsung Corning Advanced Glass LLC	<br/>
+August 2012 –  June 2013<br/>
+Project: Developed PLM(Product lifecycle management) web solution<br/>
+URL: Intranet site<br/>
+Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Oracle, Javascript<br/>
 
