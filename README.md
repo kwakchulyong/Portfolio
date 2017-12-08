@@ -4,26 +4,26 @@ Joseph Kwak's Portfolio
 Introduce
 
 Name : Joseph Kwak <br/>
-Email : josephkwak.dev@gmail.com
+Email : josephkwak.dev@gmail.com 
 
-Education
+Education<br/>
 2006 - 2013. 2 Kumoh National Institute of Technology(Bachelor of Science in Computer Engineering)
 
-Skill
-Language    JAVA, PHP, HTML, CSS, Javascript, jQuery, Ajax, node.js
-Framework   Spring Framework, CodeIgniter, Bootstrap
-CMS         XpressEngine, WordPress, Gnuboard
-OS          Windows(98 ~ ), Unix, Linux(CentOS, Ubuntu)
-Server      Amazon EC2, Apache, Tomcat, Weblogic, node.js
-Database    MS-SQL, Oracle, MariaDB(MySQL), MongoDB
-Tools       Edit - EditPlus, Notepad++
-            DB - MySQL Workbench, orange, toad
+Skill<br/>
+Language    JAVA, PHP, HTML, CSS, Javascript, jQuery, Ajax, node.js<br/>
+Framework   Spring Framework, CodeIgniter, Bootstrap<br/>
+CMS         XpressEngine, WordPress, Gnuboard <br/>
+OS          Windows(98 ~ ), Unix, Linux(CentOS, Ubuntu) <br/>
+Server      Amazon EC2, Apache, Tomcat, Weblogic, node.js <br/>
+Database    MS-SQL, Oracle, MariaDB(MySQL), MongoDB <br/>
+Tools       Edit - EditPlus, Notepad++ <br/>
+            DB - MySQL Workbench, orange, toad <br/>
 
-PROJECT EXPERIENCE 
+PROJECT EXPERIENCE <br/>
 
-THE KOREAN TEACHERS' CREDIT UNION 	
-August 2015 –  September 2017
-Project: Maintaining client website
+THE KOREAN TEACHERS' CREDIT UNION 	<br/>
+August 2015 –  September 2017 <br/>
+Project: Maintaining client website <br/>
 URL: 
 http://www.ktcu.or.kr/    - Korea Teachers' Credit Union site
 http://ethics.ktcu.or.kr/ - Moral management
