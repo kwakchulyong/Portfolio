@@ -21,6 +21,16 @@ Tools       Edit - EditPlus, Notepad++ <br/>
 
 PROJECT EXPERIENCE <br/>
 
+
+PROJECT EXPERIENCE 
+
+KN Immigraiton Services Inc. 	<br/>
+December 2017 –  Present <br/>
+Project: Developed Company’s website <br/>
+URL: https://www.kniservices.com/<br/>
+Technical environment: PHP, Javascript, Jquery, CSS, MYSQL and WordPress CMS<br/>
+
+
 THE KOREAN TEACHERS' CREDIT UNION 	<br/>
 August 2015 –  September 2017 <br/>
 Project: Maintaining client website <br/>
