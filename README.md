@@ -27,12 +27,14 @@ Project: Developed Company’s website <br/>
 URL: https://www.kniservices.com/<br/>
 Technical environment: PHP, Javascript, Jquery, CSS, MYSQL and WordPress CMS<br/>
 
+<img src="https://github.com/kwakchulyong/Portfolio/blob/master/img/1.png">
 
 THE KOREAN TEACHERS' CREDIT UNION 	<br/>
 August 2015 –  September 2017 <br/>
 Project: Maintaining client website <br/>
 URL: <br/>
 http://www.ktcu.or.kr/    - Korea Teachers' Credit Union site<br/>
+<img src="https://github.com/kwakchulyong/Portfolio/blob/master/img/2.png">
 http://ethics.ktcu.or.kr/ - Moral management<br/>
 http://award.ktcu.or.kr/  - Teacher Award<br/>
 Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Mybatis, Oracle, DB2, Eclipse, Toad<br/>
@@ -54,6 +56,7 @@ December 2014 –  March 2015<br/>
 Project: Developed “M5 Marketing” Hybrid Mobile App<br/>
 URL: https://play.google.com/store/apps/details?id=com.mcm.app.hybrid&hl=ko <br/>
 Technical environment: Windows7, Core Java, Servlets, Jsp, Spring, Hybrid App, Mssql, angular.js, MongoDB<br/>
+<img src="https://github.com/kwakchulyong/Portfolio/blob/master/img/3.png">
 
 Samsung Bioepis<br/>	
 January 2014 –  June 2014<br/>
